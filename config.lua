@@ -1,4 +1,5 @@
--- 
+-- kadeciok#1234
+-- nie usuwaj tego!
 
 Config = {
 	czas = 30, -- Czas po którym widać tablice (minuty)
@@ -19,3 +20,6 @@ Config = {
 	pedHeading = 7.0,
 	pedCoords = { x = 270.36, y = -1727.04, z = 29.26 },
 }
+
+-- kadeciok#1234
+-- nie usuwaj tego!

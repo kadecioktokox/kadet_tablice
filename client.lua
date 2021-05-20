@@ -1,3 +1,6 @@
+-- kadeciok#1234
+-- nie usuwaj tego!
+
 ESX = nil
 cooldown = false
 
@@ -125,3 +128,6 @@ function DrawText3D(x, y, z, text)
     AddTextComponentString(text)
     DrawText(_x,_y)
 end
+
+-- kadeciok#1234
+-- nie usuwaj tego!

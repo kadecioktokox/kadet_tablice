@@ -1,3 +1,6 @@
+-- kadeciok#1234
+-- nie usuwaj tego!
+
 ESX = nil
 
 TriggerEvent('esx:getSharedObject', function(obj) ESX = obj end)
@@ -15,3 +18,6 @@ AddEventHandler('foka_tablice:pay', function()
 	local xPlayer  = ESX.GetPlayerFromId(source)
 	xPlayer.removeMoney(Config.money)
 end)
+
+-- kadeciok#1234
+-- nie usuwaj tego!
